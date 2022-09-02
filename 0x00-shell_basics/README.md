@@ -1,1 +1,1 @@
-a script that copies all html files from present derectory to parent directory
+a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
